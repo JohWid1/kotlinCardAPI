@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardAPI</string>
+    <string name="fetch_card">Fetch Random Card</string>
+</resources>
